@@ -1,4 +1,3 @@
-![logo](https://github.com/AmanMarve/AmanMarve/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Aman Marve</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs,Express js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/settings/repositories](https://amanmarve.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://amanmarve.github.io/portfolio/](https://amanmarve.github.io/portfolio/)
 
 - 💬 Ask me about **HTML,CSS,Javascript**
 
@@ -16,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/marveaman30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/marveaman30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-marve-725565219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-marve-725565219" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/aman.marve.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aman.marve.77" height="30" width="40" /></a>
 </p>
