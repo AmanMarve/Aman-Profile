@@ -1,3 +1,4 @@
+<img src="https://github.com/AmanMarve/AmanMarve/blob/main/Banner.png">
 <h1 align="center">Hi 👋, I'm Aman Marve</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
