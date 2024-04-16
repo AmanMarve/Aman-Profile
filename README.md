@@ -1,10 +1,10 @@
 <img src="https://github.com/AmanMarve/AmanMarve/blob/main/Banner.png">
 <h1 align="center">Hi 👋, I'm Aman Marve</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Frontend developer from Nagpur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmarve&label=Profile%20views&color=0e75b6&style=flat" alt="amanmarve" /> </p>
 
-- 🌱 I’m currently learning **Reactjs,Express js**
+- 🌱 I’m currently learning **Reactjs,Tailwind CSS,and Backend**
 
 - 👨‍💻 All of my projects are available at [https://amanmarve.github.io/portfolio/](https://amanmarve.github.io/portfolio/)
 
