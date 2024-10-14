@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Reactjs,Tailwind CSS,and Backend**
 
-- 👨‍💻 All of my projects are available at [https://amanmarve.github.io/portfolio/](https://amanmarve.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://amanmarve.netlify.app/](https://amanmarve.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,Javascript**
 
