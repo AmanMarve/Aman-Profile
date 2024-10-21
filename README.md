@@ -1,18 +1,16 @@
 <img src="https://github.com/AmanMarve/AmanMarve/blob/main/Banner.png">
 <h1 align="center">Hi 👋, I'm Aman Marve</h1>
-<h3 align="center">A passionate Frontend developer from Maharashtra.</h3>
+<h3 align="center">a MERN Stack Developer with a passion for building things that matter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanmarve&label=Profile%20views&color=0e75b6&style=flat" alt="amanmarve" /> </p>
 
-- 🌱 I’m currently learning **Reactjs,Tailwind CSS,and Backend**
+- 🌱I specialize in both frontend and backend development, using technologies like **ReactJS**, **Node.js**, and **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://amanmarve.netlify.app/](https://amanmarve.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- ⚡Web Developer Intern at **Sapalogy Pvt Ltd, Nagpur**.
 
 - 📫 How to reach me **Aman1.marve@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/amiyr/Downloads/Aman_marve_Bsc(IT).pdf](file:///C:/Users/amiyr/Downloads/Aman_marve_Bsc(IT).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
